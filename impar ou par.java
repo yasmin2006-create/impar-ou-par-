@@ -1,6 +1,5 @@
 // Yasmin louise Fontes Guimarães
 // 12661935138
-
 import java.util.Scanner;
 public class App {
     public static void main(String[] args) {
